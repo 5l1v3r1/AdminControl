@@ -7,6 +7,10 @@ How to use ?
 
 Install:
 
+Donwload it
+
+Drug admincontrol.py to your python folder (When your scripts)
+
 
 Import: 
 
